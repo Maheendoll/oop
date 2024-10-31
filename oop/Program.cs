@@ -10,6 +10,7 @@ namespace oop
     {
         static void Main(string[] args)
         {
+            njnn
         }
     }
 }
